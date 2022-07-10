@@ -37,3 +37,4 @@ This template comes with several essential features:
 - `storybook` – starts storybook dev server
 - `storybook:build` – build production storybook bundle to `storybook-static`
 - `prettier:write` – formats all files with Prettier
+# portfolio-project-2
